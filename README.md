@@ -1,8 +1,6 @@
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
-
-This python package is prepared by YourName.
+This python package is prepared by Divyam Pal.
 
 Dependencies
 ```
@@ -14,13 +12,13 @@ pip install textblob==0.15.3
 
 Install
 
-`pip install git+https://github.com/laxmimerit/preprocess_kgptalkie.git --upgrade --force-reinstall`
+`pip install git+https://github.com/DivyamPal/pre-processing.git --upgrade --force-reinstall`
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall pre-processing`
 
-#### How to use it for preprocessing
+<!-- #### How to use it for preprocessing
 You have to have installed spacy and python3 to make it work.
 
 ```
@@ -69,4 +67,4 @@ x = re.sub("(.)\\1{2,}", "\\1", x)
 print(x)
 ---
 love you
-```
+``` -->
